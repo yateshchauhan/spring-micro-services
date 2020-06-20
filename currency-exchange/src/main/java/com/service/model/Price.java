@@ -1,4 +1,4 @@
-package com.price.model;
+package com.service.model;
 
 import org.springframework.stereotype.Component;
 
